@@ -1,0 +1,2 @@
+# lodo-quotes
+Quote Generator
